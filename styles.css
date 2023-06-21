@@ -8,6 +8,9 @@
     display: flex;
     justify-content: space-evenly;
 }
+.icon li a{
+	width:5px;
+}
 footer{
     
     width: 100%;
